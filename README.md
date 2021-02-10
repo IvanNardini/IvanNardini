@@ -19,6 +19,7 @@ Also I have to learn about different programming languages, practices such as au
 
 Finally, I need to stay up to date reading articles, studying other's projects and soon...That's the reason why [utils](https://github.com/IvanNardini/4-Utils).
 
+**Notice** : Everything I do both at SAS and at Google, check personal organizations
 
 ## Stats
 
