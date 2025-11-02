@@ -1,31 +1,31 @@
-# Hi Folks 
+## Hey there 👋
 
-## Bio
+Welcome to my personal coding playground! This is where I experiment, learn, and build things that I am interested in.
 
-I am a passionate ML Practioner. In particular, I am interested in MLOps and Machine Learning Systems. 
-That's why I lead Engineering Labs initiative at [MLOpsCommunity](https://mlops.community/).
+### 🛠️ What You'll Find Here
+This repository is my space for exploring topics I'm passionate about:
+- **AI/ML experiments:** Playing with open-source LLMs, building evaluation frameworks, and experimenting with distributed training
+- **Side projects:** Code that scratches my own itch or explores ideas I find interesting
+- **Learning in public:** Trying out new tools, frameworks, and techniques
 
-Outside my work at Google, I spend time on testing technologies, building demos, writing [articles](https://ivannardini.medium.com/) and occasionally doing presentations in communities.
+### 💻 Tools I Use
+- **Languages:** Python, SQL
+- **ML/AI:** Hugging Face, TensorFlow, PyTorch, JAX
+- **Cloud:** Google Cloud
+- **Dev Tools:** Git, Docker, Cursor
 
-## Content
+### 🎯 Currently Tinkering With
+- LLM 
+- Distributed ML training with Ray
+- Computational neuroscience
+- Whatever catches my interest next
 
-Below you can find shortcuts to the main repositories
+### 🌐 Find Me Elsewhere
+For my professional work, check out [@inardini](https://github.com/inardini)
 
-If you are looking at personal demos, [here](https://github.com/IvanNardini/1-Demos.git).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-nardini/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ivnardini)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ivnardini)
 
-To build end to end demos, I need to plan some [hands-on](https://github.com/IvanNardini/2-Engineering.git).
-
-Also I have to learn about different programming languages, practices such as automated build and test, continuous integration, and continuous delivery and Cloud. All is [here](https://github.com/IvanNardini/3-Learning.git).
-
-Finally, I need to stay up to date reading articles, studying other's projects and soon...That's the reason why [utils](https://github.com/IvanNardini/4-Utils).
-
-**Notice** : Everything I do both at SAS and at Google, check personal organizations
-
-## Stats
-
-[![Ivan Nardini's github stats](https://github-readme-stats.vercel.app/api?username=IvanNardini&line_height=24&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## Contacts
-
-Feel free to reach me out for collaboration or just interesting talks. 
+---
+*Note: This is my personal account for experimentation and learning. Code here may be messy, incomplete, or just for fun!* 
