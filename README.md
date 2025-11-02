@@ -14,9 +14,9 @@ This repository is my space for exploring topics I'm passionate about:
 - **Cloud:** Google Cloud
 - **Dev Tools:** Git, Docker, Cursor
 
-### 🎯 Currently Tinkering With
-- LLM 
-- Distributed ML training with Ray
+### 🎯 Currently working on...
+- LLMs
+- Ray
 - Computational neuroscience
 - Whatever catches my interest next
 
